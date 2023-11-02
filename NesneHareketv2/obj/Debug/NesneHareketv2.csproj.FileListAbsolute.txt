@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\NesneHareketv2\NesneHareketv2\bin\Debug\NesneHareketv2.exe.config
+C:\Users\legen\source\repos\NesneHareketv2\NesneHareketv2\bin\Debug\NesneHareketv2.exe
+C:\Users\legen\source\repos\NesneHareketv2\NesneHareketv2\bin\Debug\NesneHareketv2.pdb
+C:\Users\legen\source\repos\NesneHareketv2\NesneHareketv2\obj\Debug\NesneHareketv2.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\NesneHareketv2\NesneHareketv2\obj\Debug\NesneHareketv2.Form1.resources
+C:\Users\legen\source\repos\NesneHareketv2\NesneHareketv2\obj\Debug\NesneHareketv2.Properties.Resources.resources
+C:\Users\legen\source\repos\NesneHareketv2\NesneHareketv2\obj\Debug\NesneHareketv2.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\NesneHareketv2\NesneHareketv2\obj\Debug\NesneHareketv2.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\NesneHareketv2\NesneHareketv2\obj\Debug\NesneHareketv2.exe
+C:\Users\legen\source\repos\NesneHareketv2\NesneHareketv2\obj\Debug\NesneHareketv2.pdb
